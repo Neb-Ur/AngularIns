@@ -29,3 +29,12 @@ Librerias
 
 Angular material: npm install --save @angular/material @angular/cdk @angular/animations               
 Boostrap: https://getbootstrap.com/
+
+FlexBox
+---------------------------
+
+El Módulo de Caja Flexible, comúnmente llamado flexbox, fue diseñado como un modelo unidimensional de layout, y como un método que pueda ayudar a distribuir el espacio entre los ítems de una interfaz y mejorar las capacidades de alineación.
+Ayuda bastante a que la pagina web sea responsiva para ser vista en un smartphone
+
+
+https://tburleson-layouts-demos.firebaseapp.com/#/docs
