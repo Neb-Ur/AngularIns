@@ -28,6 +28,8 @@ Librerias
 
   Angular material: npm install --save @angular/material @angular/cdk @angular/animations               
   Boostrap: https://getbootstrap.com/
+  Ng-Boostrap: https://ng-bootstrap.github.io/#/home npm install --save @ng-bootstrap/ng-bootstrap
+  Ag-Grid: https://www.ag-grid.com/angular-getting-started/
 
 FlexBox
 ---------------------------
@@ -35,4 +37,21 @@ FlexBox
   El Módulo de Caja Flexible, comúnmente llamado flexbox, fue diseñado como un modelo unidimensional de layout, y como un método que pueda ayudar a distribuir el espacio entre los ítems de una interfaz y mejorar las capacidades de alineación.
   Ayuda bastante a que la pagina web sea responsiva para ser vista en un smartphone
 
-  https://tburleson-layouts-demos.firebaseapp.com/#/docs
+  FlexLayout(Material): https://tburleson-layouts-demos.firebaseapp.com/#/docs
+  Contextos(Boostrap): https://getbootstrap.com/docs/4.3/layout/overview/
+ 
+ 
+Git 
+-------------------------
+Clonar
+Formato: https://usuario:token@"ruta"
+
+Token: Gitlab
+
+Clonar: git clone https://usuario:token@"ruta"
+
+Ver configuracion de git: git config --list
+
+¿Que hacer si se me vence el token?
+Crear nuevo token en gitlab
+Setear la conexion con gitlab: git config --global remote.origin.url "conexion http con usuario y nuevo token"
