@@ -55,3 +55,5 @@ Ver configuracion de git: git config --list
 ¿Que hacer si se me vence el token?
 Crear nuevo token en gitlab
 Setear la conexion con gitlab: git config --global remote.origin.url "conexion http con usuario y nuevo token"
+
+
