@@ -43,6 +43,9 @@ FlexBox
  
 Git 
 -------------------------
+Borrar rama
+git branch -d nombre
+
 Clonar
 Formato: https://usuario:token@"ruta"
 
@@ -64,5 +67,6 @@ Levantar proyecto eclipse que este gestionado por maven
 - mvn install
 - mvn -v (ruta y version de setting)
 - mvn package (empaquetar proyecto) para ver el tipo de empaquetado(war, ear, jar) se tiene que revisar el pom del proyecto.
+- mvn package -Dmaven.test.skip=true (para saltar test)
 
 Si no puedo compilar por permisos del proxy debo ingresar a apache-maven setting e ingresar usuario y contraseña proxy.
