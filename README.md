@@ -60,7 +60,9 @@ Setear la conexion con gitlab: git config --global remote.origin.url "conexion h
 Maven
 ---------------------------------------
 Levantar proyecto eclipse que este gestionado por maven
-- mvn compile
+- mvn compile (ejecuta el clear y compile)
 - mvn install
+- mvn -v (ruta y version de setting)
+- mvn package (empaquetar proyecto) para ver el tipo de empaquetado(war, ear, jar) se tiene que revisar el pom del proyecto.
 
 Si no puedo compilar por permisos del proxy debo ingresar a apache-maven setting e ingresar usuario y contraseña proxy.
