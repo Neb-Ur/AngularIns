@@ -57,3 +57,10 @@ Crear nuevo token en gitlab
 Setear la conexion con gitlab: git config --global remote.origin.url "conexion http con usuario y nuevo token"
 
 
+Maven
+---------------------------------------
+Levantar proyecto eclipse que este gestionado por maven
+- mvn compile
+- mvn install
+
+Si no puedo compilar por permisos del proxy debo ingresar a apache-maven setting e ingresar usuario y contraseña proxy.
