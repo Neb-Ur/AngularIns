@@ -39,6 +39,7 @@ FlexBox
 
   FlexLayout(Material): https://tburleson-layouts-demos.firebaseapp.com/#/docs
   Contextos(Boostrap): https://getbootstrap.com/docs/4.3/layout/overview/
+  https://hackerthemes.com/bootstrap-cheatsheet/
  
  
 Git 
