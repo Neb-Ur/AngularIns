@@ -26,11 +26,23 @@ Extensiones Visual Studio
 Librerias
 ---------------------------------------------------------------------------------------------------
 
-  Angular material: npm install --save @angular/material @angular/cdk @angular/animations               
+  Angular material: npm install --save @angular/material @angular/cdk @angular/animations  
+  
   Boostrap: https://getbootstrap.com/
+  
   Ng-Boostrap: https://ng-bootstrap.github.io/#/home npm install --save @ng-bootstrap/ng-bootstrap
   
   Ag-Grid: https://www.ag-grid.com/angular-getting-started/
+  
+Boostrap
+--------------------------
+https://github.com/twbs/bootstrap-sass/blob/master/assets/stylesheets/bootstrap/_variables.scss
+
+https://uniwebsidad.com/libros/bootstrap-3/capitulo-3/titulares
+
+https://abalozz.es/sobre-como-usar-px-em-rem-y-percent-en-responsive-design/
+
+
 
 FlexBox
 ---------------------------
@@ -39,7 +51,9 @@ FlexBox
   Ayuda bastante a que la pagina web sea responsiva para ser vista en un smartphone
 
   FlexLayout(Material): https://tburleson-layouts-demos.firebaseapp.com/#/docs
+  
   Contextos(Boostrap): https://getbootstrap.com/docs/4.3/layout/overview/
+  
   https://hackerthemes.com/bootstrap-cheatsheet/
  
  
