@@ -78,6 +78,8 @@ Setear la conexion con gitlab: git config --global remote.origin.url "conexion h
 
 Maven
 ---------------------------------------
+Importar proyecto maven. Necesario Archivo pom.
+
 Levantar proyecto eclipse que este gestionado por maven
 - mvn compile (ejecuta el clear y compile)
 - mvn install
